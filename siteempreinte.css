@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+
+
+}
+.papa {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table,
+td {
+    border: 1px solid #333;
+    text-align: center;
+    margin: auto;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+  }
+.mentale {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+body{
+    background-image: url('https://i.stack.imgur.com/kx8MT.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+    color: #fff;
+}
+
+accordeon{
+        display: block;
+        overflow: auto;
+        width: 210px;
+        height: 30px;
+        float: left;
+}
